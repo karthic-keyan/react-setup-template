@@ -1,7 +1,3 @@
-Here's a description for your GitHub repository:
-
----
-
 # React Template with TypeScript, ESLint, Prettier, and Tailwind
 
 This repository serves as a starter template for building React applications with integrated support for TypeScript, ESLint, Prettier, and Tailwind CSS. It's designed to help you quickly set up a new project with a strong foundation for code quality and styling consistency.
